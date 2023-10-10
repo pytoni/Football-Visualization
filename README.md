@@ -4,3 +4,6 @@ This project aims to facilitate the extraction, processing, analysis, and visual
 # Project
 - Shot map
 - Outfield player report
+- Women world cup 2023
+- xG flow chart
+- Top passers
